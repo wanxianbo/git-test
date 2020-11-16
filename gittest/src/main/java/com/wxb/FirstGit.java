@@ -10,6 +10,8 @@ public class FirstGit {
         System.out.println("git1");
         System.out.println("git1");
         System.out.println("git1");
+	FirstGit git = new FirstGit();
+	git.test();
     }
 
     public void test() {
