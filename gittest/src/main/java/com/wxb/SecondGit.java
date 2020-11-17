@@ -7,4 +7,5 @@ public class SecondGit {
         }
 	System.out.Println();
     }
+    System.out.Println("GOGOGOG");
 }
