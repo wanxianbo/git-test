@@ -1,4 +1,4 @@
 # git-test
 ```java
- System.out.printlssssssss();
+ System.out.printls();
 ```
